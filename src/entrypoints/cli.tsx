@@ -3,7 +3,7 @@
 const feature = (_name: string) => false;
 if (typeof globalThis.MACRO === "undefined") {
     (globalThis as any).MACRO = {
-        VERSION: "2.1.888",
+        VERSION: "2.2.0",
         BUILD_TIME: new Date().toISOString(),
         FEEDBACK_CHANNEL: "",
         ISSUES_EXPLAINER: "",
