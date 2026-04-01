@@ -1,4 +1,4 @@
-# Claude Code Best V2 (CCB)
+# Claude Code
 
 Anthropic 官方 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI 工具的源码还原项目，可编译部署运行，完全兼容官方claude-code配置
 
